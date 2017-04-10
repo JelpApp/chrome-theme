@@ -1,6 +1,8 @@
-# Jelp Chrome Theme
+# Jelp App Chrome Theme
 
-Tema de chrome de Jelp App
+Jelp App Chrome Theme
+
+![Jelp App Chrome Theme](miscFiles/Screen%20Shot%202017-04-10%20at%2010.22.01%20AM.png?raw=true "Screenshot Zero")
 
 ## Collaborate
 
