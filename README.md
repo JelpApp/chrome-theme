@@ -2,7 +2,7 @@
 
 Jelp App Chrome Theme
 
-![Jelp App Chrome Theme](miscFiles/Screen%20Shot%202017-04-10%20at%2010.22.01%20AM.png?raw=true "Screenshot Zero")
+![Jelp App Chrome Theme](Graphics/ss01.png?raw=true "Screenshot Zero")
 
 ## Collaborate
 
